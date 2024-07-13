@@ -56,12 +56,12 @@ export default function Compressimg() {
 }
 const styles = StyleSheet.create({
     textInput: {
-        width: 200,
-        height: 40,
-        borderWidth: 1,
-        borderColor: 'gray',
-        paddingHorizontal: 10,
-      },
+      width: 200,
+      height: 40,
+      borderWidth: 1,
+      borderColor: 'gray',
+      paddingHorizontal: 10,
+    },
     container: {
     flex: 1,
     backgroundColor: '#fff',
